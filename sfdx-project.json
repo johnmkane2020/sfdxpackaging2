@@ -3,7 +3,7 @@
         {
             "path": "force-app",
             "default": true,
-            "package": "trialpackage",
+            "package": "trialpackage2",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
         }
@@ -13,6 +13,6 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "52.0",
     "packageAliases": {
-        "trialpackage": "0Ho5f000000TNCTCA4"
+        "trialpackage2": "0Ho5f000000TNCYCA4"
     }
 }
